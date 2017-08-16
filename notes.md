@@ -1,8 +1,4 @@
 
-TODO:
-
- - github
-
 # Notes
 
 ### NGINX redirection of port 80 to port 443

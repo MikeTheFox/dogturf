@@ -1,14 +1,18 @@
 
 # [DogTurf](https://dogturf.node2.be/)
 
-[GitHub repository](https://github.com/MikeTheFox/dogturf).
-[Online version](https://dogturf.node2.be/) _that might go offline_.
+* [GitHub repository](https://github.com/MikeTheFox/dogturf).
+* [Online version](https://dogturf.node2.be/) _that might go offline_.
 
 ### Install and run notes
 
 ##### Install
 
-Use Node Package Manager ```npm install``` to install the server packages.
+Use Node Package Manager to install the server packages.
+
+* To do so go open a command prompt, 
+* go to the folder with the "packages.json" file and
+* enter ```npm install``` .
 
 ##### Run
 
