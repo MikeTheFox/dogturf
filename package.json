@@ -1,0 +1,27 @@
+{
+  "name": "dogturf",
+  "version": "1.0.0",
+  "description": "Find dog friendly places",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "MikeTheFox"
+  },
+  "keywords": [
+    "progressive",
+    "web",
+    "app",
+    "dog",
+    "place"
+  ],
+  "dependencies": { 
+    "json-server": "0.12.0",
+	"jsonschema": "1.1.1",
+	"body-parser": "1.17.2"
+  },
+  "author": "MikeTheFox",
+  "license": "ISC"
+}

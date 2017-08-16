@@ -1,0 +1,24 @@
+{
+  "turfs": [
+    {
+      "description": "Park. Not the most dog friendly place but it's ok.",
+      "official": false,
+      "leash": true,
+      "enclosed": false,
+      "lat": 50.8471252,
+      "lng": 3.6041069,
+      "valid": true,
+      "id": 1
+    },
+    {
+      "description": "Quied place. You can leave the leash, on your own risk, when keeping the dog close.",
+      "official": false,
+      "leash": true,
+      "enclosed": false,
+      "lat": 50.846917,
+      "lng": 3.597687,
+      "valid": true,
+      "id": 2
+    }
+  ]
+}

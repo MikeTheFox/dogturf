@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Dog's Turf - Register</title>
+	<meta name="author" content="Mike The Fox">
+	<meta name="description" content="Find dog friendly places!">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=no">
+
+	<link rel="apple-touch-icon" sizes="57x57" href="/assets/icons/apple-touch-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="/assets/icons/apple-touch-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="/assets/icons/apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="/assets/icons/apple-touch-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="/assets/icons/apple-touch-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="/assets/icons/apple-touch-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="/assets/icons/apple-touch-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="/assets/icons/apple-touch-icon-152x152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="/assets/icons/apple-touch-icon-180x180.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/assets/icons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="194x194" href="/icons/favicon-194x194.png">
+	<link rel="icon" type="image/png" sizes="192x192" href="/assets/icons/android-chrome-192x192.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/assets/icons/favicon-16x16.png">
+
+	<link rel="stylesheet" href="/assets/css/reset.css">
+	<link rel="stylesheet" href="/assets/css/jquery.mobile-1.4.5.min.css">
+	<link rel="stylesheet" href="/assets/css/style.css">
+</head>
+<body>
+	<header>
+		<h1>Register Turf</h1>
+	</header>
+	<main class="register">
+		<form>
+			<label for="textarea-1">Description:</label>
+			<textarea name="textarea-1" id="textarea-1" disabled="" required minlength="10" maxlength="512">Waiting for position...</textarea>
+			<fieldset data-role="controlgroup">
+				<input type="checkbox" name="checkbox-v-2a" id="checkbox-v-2a" disabled="">
+				<label for="checkbox-v-2a">Official dog park?</label>
+				<input type="checkbox" name="checkbox-v-2b" id="checkbox-v-2b" disabled="">
+				<label for="checkbox-v-2b">Leash obligated?</label>
+				<input type="checkbox" name="checkbox-v-2c" id="checkbox-v-2c" disabled="">
+				<label for="checkbox-v-2c">Enclosed?</label>
+			</fieldset>
+			<div data-role="controlgroup" data-type="horizontal" class="text-right">
+				<input type="button" id="input-back" class="ui-btn ui-btn-inline" value="&lt;&lt; Back"/>
+				&nbsp;
+				<input type="submit" id="input-submit" class="ui-btn ui-btn-inline" value="Register" disabled=""/>
+			</div>							
+		</form>
+	</main>
+	<script src="/assets/js/jquery-2.2.4.min.js"></script>
+	<script src="/assets/js/jquery.mobile-1.4.5.min.js"></script>
+	<script src="/assets/js/tv4.js"></script>
+    <script src="/assets/js/localforage.min.js"></script>
+    <script src="/assets/js/global.js"></script>
+    <script src="/assets/js/register.js"></script>
+</body>
+</html>
