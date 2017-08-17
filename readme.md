@@ -10,8 +10,8 @@
 
 Use Node Package Manager to install the server packages.
 
-* To do so go open a command prompt, 
-* go to the folder with the "packages.json" file and
+* To do so open a command prompt, 
+* go to the folder with the "package.json" file and
 * enter ```npm install``` .
 
 ##### Run
