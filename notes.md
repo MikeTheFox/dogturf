@@ -143,76 +143,76 @@ console.log("listening to port 443");
 
 * manifest and images
 
-https://developer.mozilla.org/en-US/docs/Web/Manifest
-manifest: http://mwa-project.herokuapp.com/
-manifest icons: https://app-manifest.firebaseapp.com/
-favicons: http://realfavicongenerator.net/
-http://image.online-convert.com/convert-to-svg
+  * https://developer.mozilla.org/en-US/docs/Web/Manifest
+  * manifest: http://mwa-project.herokuapp.com/
+  * manifest icons: https://app-manifest.firebaseapp.com/
+  * favicons: http://realfavicongenerator.net/
+  * http://image.online-convert.com/convert-to-svg
 
 * firewall rule
 
-https://help.ubuntu.com/lts/serverguide/firewall.html
+  * https://help.ubuntu.com/lts/serverguide/firewall.html
 
 * https in nodejs
 
-http://voidcanvas.com/create-ssl-https-server-in-nodejs/
+  * http://voidcanvas.com/create-ssl-https-server-in-nodejs/
 
 * Let's encrypt error: "ImportError: No module named datetime"
 
-https://askubuntu.com/questions/509283/python-no-module-named-datetime/850669#850669
+  * https://askubuntu.com/questions/509283/python-no-module-named-datetime/850669#850669
 
 * json-server, hotel and filltext
 
-https://github.com/typicode/json-server
-https://github.com/typicode/hotel
-http://www.filltext.com/
+  * https://github.com/typicode/json-server
+  * https://github.com/typicode/hotel
+  * http://www.filltext.com/
 
 * https with json-server(hotel)
 
-https://github.com/typicode/json-server/issues/244
+  * https://github.com/typicode/json-server/issues/244
 
 * jquery mobile 
 
-http://demos.jquerymobile.com/1.4.5/checkboxradio-checkbox/#&ui-state=dialog
-https://demos.jquerymobile.com/1.2.0/docs/forms/textinputs/methods.html
+  * http://demos.jquerymobile.com/1.4.5/checkboxradio-checkbox/#&ui-state=dialog
+  * https://demos.jquerymobile.com/1.2.0/docs/forms/textinputs/methods.html
 
 * service workers
 
-https://developer.mozilla.org/en/docs/Web/API/Service_Worker_API
-https://filipbech.github.io/2017/02/service-worker-and-caching-from-other-origins
-https://developers.google.com/web/fundamentals/getting-started/primers/service-workers
-https://developers.google.com/web/fundamentals/getting-started/codelabs/your-first-pwapp/
+  * https://developer.mozilla.org/en/docs/Web/API/Service_Worker_API
+  * https://filipbech.github.io/2017/02/service-worker-and-caching-from-other-origins
+  * https://developers.google.com/web/fundamentals/getting-started/primers/service-workers
+  * https://developers.google.com/web/fundamentals/getting-started/codelabs/your-first-pwapp/
 
 * geolocation
 
-https://developer.mozilla.org/en-US/docs/Web/API/Geolocation
-https://developer.mozilla.org/en-US/docs/Web/API/Geolocation/Using_geolocation
+  * https://developer.mozilla.org/en-US/docs/Web/API/Geolocation
+  * https://developer.mozilla.org/en-US/docs/Web/API/Geolocation/Using_geolocation
 
 * maps api
 
-https://developers.google.com/maps/documentation/javascript/get-api-key?refresh=1
-https://developers.google.com/maps/documentation/javascript/adding-a-google-map
-https://developers.google.com/maps/documentation/javascript/tutorial
-https://developers.google.com/maps/documentation/javascript/reference
-https://developers.google.com/maps/documentation/javascript/examples
-https://developers.google.com/maps/documentation/javascript/events
+  * https://developers.google.com/maps/documentation/javascript/get-api-key?refresh=1
+  * https://developers.google.com/maps/documentation/javascript/adding-a-google-map
+  * https://developers.google.com/maps/documentation/javascript/tutorial
+  * https://developers.google.com/maps/documentation/javascript/reference
+  * https://developers.google.com/maps/documentation/javascript/examples
+  * https://developers.google.com/maps/documentation/javascript/events
 
 * push api
 
-https://developer.mozilla.org/en-US/docs/Web/API/Push_API
+  * https://developer.mozilla.org/en-US/docs/Web/API/Push_API
 
 * schema validator
 
-http://www.jsonschemavalidator.net/
-https://github.com/geraintluff/tv4/
-https://github.com/tdegrunt/jsonschema/
+  * http://www.jsonschemavalidator.net/
+  * https://github.com/geraintluff/tv4/
+  * https://github.com/tdegrunt/jsonschema/
 
 * body parser for server side schema validation 
 
-https://stackoverflow.com/questions/9177049/express-js-req-body-undefined
+  * https://stackoverflow.com/questions/9177049/express-js-req-body-undefined
 
 * markdown
 
-https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet/
-http://dillinger.io/
+  * https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet/
+  * http://dillinger.io/
 
