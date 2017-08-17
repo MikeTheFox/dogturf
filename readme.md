@@ -16,8 +16,8 @@ Use Node Package Manager to install the server packages.
 
 ##### Run
 
-On Windows use the command line `node app.js [port]`.
-On Linux use the command line `[sudo] nodejs app.js [port]`.
+* On Windows use the command line `node app.js [port]`.
+* On Linux use the command line `[sudo] nodejs app.js [port]`.
 
 _**(Note: Using "json-server" will disable server side data validation.)**_
 
@@ -72,10 +72,10 @@ module.exports = {
 
 ##### Todo
 
-* Cache last position up to ??? seconds because when going to the register page the Geo Location goes fast the first time.
+* Nicer feedback messages of schema validation
+* Nicer dialogs for messages
 * Validate the content type of the http request on the server side.
 * Test on: iPhone, iOS, , firefox windows desktop, ...
 * Change getCurrentPosition with watchPosition if there's a "fix" indicator in the API.
-* Nicer feedback messages of schema validation
-* Nicer dialogs for messages
-* Cache external responses??? (Can't store all Google Maps images...)
+* ??? Cache last position up to ??? seconds because when going to the register page the Geo Location goes fast the first time.
+* ??? Cache responses of other domains ??? (Can't store all Google Maps images...)
